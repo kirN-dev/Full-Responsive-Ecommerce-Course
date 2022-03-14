@@ -39,7 +39,8 @@
 }
 
 #feature .fe-box{
-	width: 180px;
+	width: 300px;
+	height: 350px;
 	text-align: center;
 	padding: 25px 15px;
 	box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);

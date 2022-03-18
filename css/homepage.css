@@ -62,25 +62,19 @@
 	padding: 9px 8px 6px 8px;
 	line-height: 1;
 	border-radius: 4px;
-	color: #26ade4;
-	background-color:#fddde4;
+	color: #ffffff;
+	background-color:#7694f5;
 }
 
 #feature .fe-box:nth-child(2) h6{
-	background-color: aquamarine;
+	background-color: rgb(85, 224, 178);
 }
 
 #feature .fe-box:nth-child(3) h6{
-	background-color: royalblue;
+	background-color: rgb(32, 167, 221);
 }
 
 #feature .fe-box:nth-child(4) h6{
-	background-color: burlywood;
-}
-#feature .fe-box:nth-child(5) h6{
-	background-color: turquoise;
+	background-color: rgb(241, 112, 213);
 }
 
-#feature .fe-box:nth-child(6) h6{
-	background-color: crimson;
-}

@@ -53,9 +53,17 @@
 	box-shadow: 10px 10px 64px rgba(43, 37, 168, 0.1);
 }
 
-#feature .fe-box img{
+
+#feature .fe-box div{
+	width: 250px;
+	height: 250px;
+	align-content: center;
+}
+
+#feature .fe-box div img{
 	width: 100%;
 	margin-bottom: 10px;
+	
 }
 
 #feature .fe-box h6{

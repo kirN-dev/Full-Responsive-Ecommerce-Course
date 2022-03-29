@@ -164,7 +164,7 @@
   align-items: center;
   text-align: center;
   background-image: url("../Images/banner/b2.jpg");
-  min-width: 100%;
+  width: 100%;
   height: 30vh;
   background-size: cover;
   background-position: center;
@@ -202,12 +202,16 @@
 	justify-content: center;
 	align-items: flex-start;
 	/* background-image: url("../Images/banner/b2.jpg"); */
-	background: radial-gradient(at 90%, rgb(247, 224, 194) 0%, orange 100%);
-	min-width: 580px;
+	background: radial-gradient(at 80% , rgb(255, 255, 255) 0%,rgb(243, 204, 120) 0%, orange 100%);
+	min-width: 720px;
 	height: 50vh;
 	background-size: cover;
 	background-position: center;
 	padding: 30px;
+}
+
+#sm-banner .banner-box2{
+	background: radial-gradient(at 80% , rgb(255, 255, 255) 0%,rgb(169, 236, 245) 0%, rgb(4, 207, 190) 100%);
 }
 
 #sm-banner h4{
@@ -228,3 +232,8 @@
 	font-weight: 500;
 	padding-bottom: 15px;
 }
+
+#sm-banner .banner-box:hover button {
+	background-color: #26ade4;
+	border: 1px solid #26ade4;
+  }
